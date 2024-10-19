@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img align="right" src="https://www.canva.com/design/DAGT_XQqXms/A3dyP3TXyhMZjeYW1pCCqA/view?utm_content=DAGT_XQqXms&utm_campaign=designshare&utm_medium=link&utm_source=editor"/>
 <!--
 **AkhmadKholmurodov/AkhmadKholmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
