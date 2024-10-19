@@ -41,8 +41,7 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
     <td><a href="https://my-drive-pi.vercel.app/">Google Drive Clone</a></td>
     <td>
       <a href="https://github.com/AkhmadKholmurodov/my-drive">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-        Source Code
+        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> Code
       <a/>
     </td>
     <td>Working time here</td>
