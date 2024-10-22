@@ -34,7 +34,7 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
     <td>Sportdosh</td>
     <td><a href="https://sportdosh.vercel.app/">Here is Sportdosh Project<a/></td>
     <td><a href="https://github.com/AkhmadKholmurodov/sportdosh">Sportdosh Source Code<a/></td>
-    <td>Working time here</td>
+    <td>2023-03~06</td>
   </tr>
    <tr>
     <td>Google Drive Clone</td>
@@ -44,13 +44,13 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
         <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> Code
       <a/>
     </td>
-    <td>Working time here</td>
+    <td>2023-08~10</td>
   </tr>
    <tr>
-    <td>Twitter Clone</td>
+    <td>Starbucks Design</td>
     <td><a href="https://starbucks-chi-one.vercel.app/">Starbucks Design<a/></td>
     <td><a href="https://github.com/AkhmadKholmurodov/StarBucks-Coffee">Starbucks Source Code<a/></td>
-    <td>Working time here</td>
+    <td>2022.03</td>
   </tr>
 </table>
 
