@@ -28,7 +28,7 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
          Source Code
       <a/>
     </td>
-    <td>Working time here</td>
+    <td>2023-10~2024-3</td>
   </tr>
   <tr>
     <td>Sportdosh</td>
