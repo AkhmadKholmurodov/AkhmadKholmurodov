@@ -5,7 +5,7 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
 
 <h3>Things I code with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux,nestjs,git,mui,mongodb,npm,firebase,tailwindcss,go&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux,nestjs,git,mui,mongodb,npm,firebase,tailwindcss,go&perline=8)](https://skillicons.dev)
 
 
 <h3>My open source Projects<h3/>
