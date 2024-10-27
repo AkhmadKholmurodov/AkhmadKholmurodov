@@ -1,7 +1,7 @@
 <h1> Hello, Nice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
 
 Welcome to my page.
-My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea.
+My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea. 
 
 <h3>Things I code with</h3>
 
