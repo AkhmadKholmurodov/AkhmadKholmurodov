@@ -1,11 +1,15 @@
-<h1> Hello, Nice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
+<h1 align="center"> Hello, N:ice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
+<h2 align="center">2025.02월에 졸업예정이며 같이 성장할 수 있는 정규직 일구하고 있습니다 </br> February is Expected graduation date and I am looking for a fulltime job that grow together </h2>
 
-환영합니다^^
-Welcome to my page. </br>
-저는 풀스텍 개발자 아흐마드라고 합니다. 우즈베키스탄에 태어나서 자랐고 대한민국에서 대학교 공부를 하고 있습니다. </br>
-My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea. 
-
-<h3>제가 쓰는 것들 </br> Things I code with</h3>
+<h4 align="center">
+  환영합니다^^
+  Welcome to my page. 
+  </br>
+  저는 풀스텍 개발자 아흐마드라고 합니다. 우즈베키스탄에 태어나서 자랐고 대한민국에서 대학교 공부를 하고 있습니다. 
+  </br>
+  My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea. 
+</h4></br>
+<h3 align="center">제가 쓰는 것들 / Things I code with</h3>
 
 
 <p align="center">
@@ -15,8 +19,8 @@ My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living 
   </a>
 </p>
 
-<h3>My open source Projects<h3/>
-<table style="width:100%">
+<h3 align="center">오픈소스 프로젝트 / My open source Projects<h3/>
+<table align="center" style="width:100%">
   <tr>
     <th>Projects</th>
     <th>Link</th>
