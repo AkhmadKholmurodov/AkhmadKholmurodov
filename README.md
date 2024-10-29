@@ -1,12 +1,19 @@
 <h1> Hello, Nice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
 
-Welcome to my page.
+환영합니다^^
+Welcome to my page. </br>
+저는 풀스텍 개발자 아흐마드라고 합니다. 우즈베키스탄에 태어나서 자랐고 대한민국에서 대학교 공부를 하고 있습니다. </br>
 My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea. 
 
-<h3>Things I code with</h3>
+<h3>제가 쓰는 것들 </br> Things I code with</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux,nestjs,git,mui,mongodb,npm,firebase,tailwindcss,go&perline=8)](https://skillicons.dev)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nestjs,git,mui,mongodb,npm,firebase,tailwindcss,go&perline=8" /> </br>
+    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux&perline=8" />
+  </a>
+</p>
 
 <h3>My open source Projects<h3/>
 <table style="width:100%">
