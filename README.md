@@ -1,7 +1,7 @@
 <div align="center">
   <h1 > Hello, Nice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
-<h2>2025.02월에 졸업예정이며 같이 성장할 수 있는 정규직 일구하고 있습니다 </br> February is Expected graduation date and I am looking for a fulltime job that grow together </h2>
-
+<h2>2025.02월에 졸업예정이며 같이 성장할 수 있는 정규직 일구하고 있습니다 </br> 2025.02 is Expected graduation date and I am looking for a fulltime job that grow together </h2>
+<!-- const graduate = "2025.02" -->
 <h4 >
   환영합니다^^
   Welcome to my page. 
