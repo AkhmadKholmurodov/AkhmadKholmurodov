@@ -19,7 +19,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,git,mui,mongodb,npm,firebase,tailwindcss,go&perline=8" /> </br>
+    <img src="https://skillicons.dev/icons?i=nestjs,git,c,mongodb,npm,python,tailwindcss,go&perline=8" /> </br>
     <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux&perline=8" />
   </a>
 </p>
