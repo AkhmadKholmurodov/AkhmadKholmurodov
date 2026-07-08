@@ -48,6 +48,7 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
   <img src="https://img.shields.io/badge/Web%20Security-Advanced-red?style=flat-square" alt="Web Security"/>
   <img src="https://img.shields.io/badge/OSINT-Intermediate-yellow?style=flat-square" alt="OSINT"/>
   <img src="https://img.shields.io/badge/Reverse%20Engineering-Intermediate-orange?style=flat-square" alt="Reverse Eng"/>
+  <img src="https://img.shields.io/badge/HTTPOnly%20Cookie%20Exploitation-Expert-darkred?style=flat-square" alt="Cookie Exploitation"/>
 </p>
 
 ### Backend Development
@@ -85,6 +86,55 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
   <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC?style=flat-square&logo=c" alt="C"/>
   <img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=flat-square&logo=go" alt="Go"/>
 </p>
+
+---
+
+## 🏆 Security Achievements & Bug Bounty
+
+### 🎯 HackerOne - Bug Hunter
+<p>
+  <a href="https://hackerone.com/seehyuk2000">
+    <img src="https://img.shields.io/badge/HackerOne-seehyuk2000-white?style=for-the-badge&logo=hackerone" alt="HackerOne"/>
+  </a>
+</p>
+
+- 🐛 **Reported Vulnerability:** HTTPOnly Cookie Exploitation (XSS Vector)
+- 📋 **Type:** Web Security - Session Handling
+- 🔍 **Status:** Active Bug Hunter
+- 💡 **Impact:** Security research contribution to responsible disclosure
+
+**Key Finding:** Identified critical HTTPOnly cookie handling vulnerability that could lead to session hijacking. Demonstrated proper exploitation vector following responsible disclosure guidelines.
+
+---
+
+### 🎮 HackTheBox - Machine Hacking
+<p>
+  <a href="https://app.hackthebox.com/profile/jonnn2000">
+    <img src="https://img.shields.io/badge/HackTheBox-jonnn2000-success?style=for-the-badge&logo=hackthebox" alt="HackTheBox"/>
+  </a>
+</p>
+
+- 🏅 **Current Level:** 30
+- 📊 **Progress:** 64/691 Machines Hacked
+- 🎯 **Focus Areas:** 
+  - Web Exploitation
+  - Linux Privilege Escalation
+  - Windows Privilege Escalation
+  - Network Penetration Testing
+  - OSINT & Reconnaissance
+
+**Expertise Demonstrated:**
+- Vulnerability assessment and exploitation
+- Privilege escalation techniques
+- Network enumeration and analysis
+- Real-world attack scenarios
+
+---
+
+### 📚 TryHackMe - Continuous Learning
+- 🎓 Structured penetration testing training
+- 📈 Hands-on cybersecurity labs
+- 🔐 Skill development in security fundamentals
 
 ---
 
@@ -133,6 +183,7 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
 - 📚 **University:** Currently Studying in South Korea
 - 🎯 **Graduation Date:** February 2025
 - 🏆 **Focus Areas:** Cybersecurity, Full Stack Development, Machine Learning
+- 🔐 **Active Training:** HackTheBox, TryHackMe, HackerOne Bug Bounty Program
 
 ---
 
@@ -140,15 +191,21 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
 
 This profile showcases my **security research and educational projects**. All penetration testing and security work is conducted on **authorized systems only**. I follow responsible disclosure practices and ethical hacking principles.
 
+- ✅ HackTheBox machines - Authorized lab environment
+- ✅ TryHackMe rooms - Legal training platform
+- ✅ HackerOne reports - Responsible disclosure program
+- ✅ Personal projects - Proof of concept and educational
+
 ---
 
 ## 💬 Let's Connect!
 
 I'm always interested in:
 - 🔐 Security research collaborations
-- 💼 Full-time opportunities
-- 🤝 Open source contributions
+- 💼 Full-time opportunities (Security Engineer / Penetration Tester / Full Stack Developer)
+- 🤝 Open source security projects
 - 📚 Knowledge sharing and mentoring
+- 🎯 Bug bounty program collaboration
 
 Feel free to reach out! Let's build secure software together. 🚀
 
@@ -160,4 +217,6 @@ Feel free to reach out! Let's build secure software together. 🚀
   </p>
   
   **Made with ❤️ by Akhmad Kholmurodov**
+  
+  *Security Researcher | Full Stack Developer | Bug Hunter*
 </div>
