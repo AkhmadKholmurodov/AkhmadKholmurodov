@@ -1,89 +1,163 @@
 <div align="center">
-  <h1 > Hello, Nice to see you here! <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50"> </h1>
-
-<!-- const graduate = "2025.02" -->
-<h4 >
-  환영합니다^^
-  Welcome to my page. 
-  </br>
-  저는 풀스텍 개발자 아흐마드라고 합니다. 우즈베키스탄에 태어나서 자랐고 대한민국에서 대학교 공부를 하고 있습니다. 
-  </br>
-  My name is Akhmad, Full Stack Engineer from 🇺🇿 Uzbekistan, Current living and Studying in 🇰🇷 Korea. 
-</h4>
-</br>
-<h2>2025.02월에 졸업예정이며 같이 성장할 수 있는 정규직 일구하고 있습니다 </br> 2025.02 is Expected graduation date and I am looking for a fulltime job that grow together </h2>
-</br>
+  <h1>👨‍💻 Akhmad Kholmurodov</h1>
+  <h2>Full Stack Developer | Penetration Tester | Security Researcher</h2>
   
-<h3>제가 코드 하는 것들 / Things I code with</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge" alt="Security Focused"/>
+    <img src="https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat" alt="Red Hat"/>
+    <img src="https://img.shields.io/badge/Status-Actively%20Hiring-brightgreen?style=for-the-badge" alt="Hiring"/>
+  </p>
 
+  🇺🇿 **Uzbekistan** | 🇰🇷 **South Korea** (Graduating Feb 2025)
+  
+  <br/>
+  
+  <h3>📬 Contact & Links</h3>
+  <p>
+    <a href="mailto:seehyuk2000@gmail.com">
+      <img src="https://img.shields.io/badge/Email-seehyuk2000@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/akhmadkholmurodov">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://akhmads-portfolio.vercel.app/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
 
+---
+
+## 🎯 About Me
+
+I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **penetration testing**, and **exploit development**. I combine modern web development skills with deep security expertise to build secure applications and identify vulnerabilities.
+
+- 🔐 **Specialized in:** Web Security, Penetration Testing, Exploit Development, OSINT, Red Team Operations
+- 🎓 **Graduating:** February 2025
+- 💼 **Currently Looking For:** Full-time roles in Security Engineering or Full Stack Development
+- 🚀 **Career Goal:** Build secure systems and contribute to the security community
+
+---
+
+## 🛡️ Skills & Expertise
+
+### Security & Hacking
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nestjs,git,c,mongodb,npm,python,tailwindcss,go&perline=8" /> </br>
-    <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,javascript,sass,graphql,nodejs,redux&perline=8" />
-  </a>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Advanced-red?style=flat-square" alt="Pen Testing"/>
+  <img src="https://img.shields.io/badge/Exploit%20Development-Intermediate-orange?style=flat-square" alt="Exploits"/>
+  <img src="https://img.shields.io/badge/Web%20Security-Advanced-red?style=flat-square" alt="Web Security"/>
+  <img src="https://img.shields.io/badge/OSINT-Intermediate-yellow?style=flat-square" alt="OSINT"/>
+  <img src="https://img.shields.io/badge/Reverse%20Engineering-Intermediate-orange?style=flat-square" alt="Reverse Eng"/>
 </p>
 
-<h3 >오픈소스 프로젝트 / My open source Projects<h3/>
-<table style="width:100%">
-  <tr>
-    <th>Projects</th>
-    <th>Link</th>
-    <th>Source Code</th>
-    <th>While</th>
-  </tr>
-  <tr>
-    <td>My Blogs</td>
-    <td>
-      <a href="https://akhmads-blog-web.vercel.app/">
-        Journey to My Blogs
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/AkhmadKholmurodov/MyBlogWeb">
-         Source Code
-      <a/>
-    </td>
-    <td>2023-10~2024-3</td>
-  </tr>
-  <tr>
-    <td>Sportdosh</td>
-    <td><a href="https://sportdosh.vercel.app/">Here is Sportdosh Project<a/></td>
-    <td><a href="https://github.com/AkhmadKholmurodov/sportdosh">Sportdosh Source Code<a/></td>
-    <td>2023-03~06</td>
-  </tr>
-   <tr>
-    <td>Google Drive Clone</td>
-    <td><a href="https://my-drive-pi.vercel.app/">Google Drive Clone</a></td>
-    <td>
-      <a href="https://github.com/AkhmadKholmurodov/my-drive">
-        <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> Code
-      <a/>
-    </td>
-    <td>2023-08~10</td>
-  </tr>
-   <tr>
-    <td>Starbucks Design</td>
-    <td><a href="https://starbucks-chi-one.vercel.app/">Starbucks Design<a/></td>
-    <td><a href="https://github.com/AkhmadKholmurodov/StarBucks-Coffee">Starbucks Source Code<a/></td>
-    <td>2022.03</td>
-  </tr>
-</table>
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Node.js-Expert-green?style=flat-square&logo=node.js" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/NestJS-Advanced-red?style=flat-square" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-blue?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/Django-Intermediate-darkgreen?style=flat-square&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/GraphQL-Advanced-pink?style=flat-square&logo=graphql" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-Advanced-green?style=flat-square&logo=mongodb" alt="MongoDB"/>
+</p>
 
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-Advanced-black?style=flat-square&logo=next.js" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-Advanced-38B2AC?style=flat-square&logo=tailwindcss" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Redux-Intermediate-764ABC?style=flat-square&logo=redux" alt="Redux"/>
+</p>
 
-<!--
-**AkhmadKholmurodov/AkhmadKholmurodov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git" alt="Git"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Intermediate-557C94?style=flat-square&logo=kalilinux" alt="Kali Linux"/>
+</p>
 
-Here are some ideas to get you started:
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=flat-square&logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-Intermediate-A8B9CC?style=flat-square&logo=c" alt="C"/>
+  <img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=flat-square&logo=go" alt="Go"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🔓 Security Projects
+
+| Project | Description | Status | Links |
+|---------|-------------|--------|-------|
+| **React2Shell Exploit** | React-based web application shell command execution vulnerability demonstration | ✅ Active | [Code](https://github.com/AkhmadKholmurodov/React2Shell_Exploit) |
+| **Personal Exploits** | Collection of exploitation techniques and security research findings | ✅ Active | [Code](https://github.com/AkhmadKholmurodov/Personal-Exploits) |
+| **Othello Algorithm** | Algorithmic approach to game strategy and decision-making | ✅ Complete | [Code](https://github.com/AkhmadKholmurodov/Othello_Algorithm) |
+
+---
+
+## 💻 Full Stack Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **Twitter Clone** | Full-featured Twitter-like social media platform | Node.js, React, MongoDB, GraphQL | [Code](https://github.com/AkhmadKholmurodov/twitter-clone) |
+| **My Blog Web** | Personal blogging platform with modern UI | Next.js, React, Tailwind CSS | [Live](https://akhmads-blog-web.vercel.app/) • [Code](https://github.com/AkhmadKholmurodov/MyBlogWeb) |
+| **Sportdosh** | Sports community and event management platform | React, Node.js, MongoDB | [Live](https://sportdosh.vercel.app/) • [Code](https://github.com/AkhmadKholmurodov/sportdosh) |
+| **BaeMin App** | React Native mobile application | React Native, JavaScript | [Code](https://github.com/AkhmadKholmurodov/BaeMinApp) |
+
+---
+
+## 🤖 AI & Machine Learning Projects
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **MNIST Using** | Machine learning model for handwritten digit recognition | Python, TensorFlow, ML | [Code](https://github.com/AkhmadKholmurodov/MNIST_Using) |
+| **UnityCheckersGame** | Game with AI opponent using game theory algorithms | Unity, C# | [Code](https://github.com/AkhmadKholmurodov/UnityCheckersGame) |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhmadKholmurodov&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhmadKholmurodov&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+- 📚 **University:** Currently Studying in South Korea
+- 🎯 **Graduation Date:** February 2025
+- 🏆 **Focus Areas:** Cybersecurity, Full Stack Development, Machine Learning
+
+---
+
+## 📝 Disclaimer
+
+This profile showcases my **security research and educational projects**. All penetration testing and security work is conducted on **authorized systems only**. I follow responsible disclosure practices and ethical hacking principles.
+
+---
+
+## 💬 Let's Connect!
+
+I'm always interested in:
+- 🔐 Security research collaborations
+- 💼 Full-time opportunities
+- 🤝 Open source contributions
+- 📚 Knowledge sharing and mentoring
+
+Feel free to reach out! Let's build secure software together. 🚀
+
+---
+
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=AkhmadKholmurodov&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </p>
+  
+  **Made with ❤️ by Akhmad Kholmurodov**
 </div>
