@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Status-Actively%20Hiring-brightgreen?style=for-the-badge" alt="Hiring"/>
   </p>
 
-  🇺🇿 **Uzbekistan** | 🇰🇷 **South Korea** (Graduating Feb 2025)
+  🇺🇿 **Uzbekistan** | 🇰🇷 **South Korea** (Graduated Feb 2025)
   
   <br/>
   
