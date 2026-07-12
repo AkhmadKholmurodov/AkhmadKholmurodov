@@ -1,20 +1,36 @@
 <div align="center">
   <h1>👨‍💻 Akhmad Kholmurodov</h1>
   <h3>Full Stack Developer • Security Researcher • Penetration Tester</h3>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge" alt="Security Focused"/>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/Main%20Project-eYaqin-00C853?style=for-the-badge" alt="Main Project"/>
+  </p>
 
   <p>
-    <a href="mailto:seehyuk2000@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/akhmadkholmurodov">LinkedIn</a> •
-    <a href="https://akhmads-portfolio.vercel.app/">Portfolio</a> •
-    <a href="https://eyaqin-app.vercel.app/">eYaqin Live</a>
+    <a href="mailto:seehyuk2000@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/akhmadkholmurodov">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://eyaqin-app.vercel.app/">
+      <img src="https://img.shields.io/badge/eYaqin-Live%20Demo-00C853?style=flat-square" alt="eYaqin Live"/>
+    </a>
   </p>
+
+  🇺🇿 Uzbekistan • 🇰🇷 Graduated in South Korea (Feb 2025)
 </div>
 
 ---
 
-## About
-I build secure, scalable web products with a strong focus on **full-stack engineering** and **application security**.  
-Graduated in **February 2025 (South Korea)** and currently open to full-time roles in **Security Engineering** or **Full Stack Development**.
+## 🎯 About Me
+I build secure, scalable web products with a strong focus on **full-stack engineering** and **application security**.
+
+- 🔐 Focus: Web Security, Penetration Testing, Exploit Research, OSINT
+- 💼 Open to full-time roles: **Security Engineering** / **Full Stack Development**
+- 🚀 Goal: Build trustworthy systems for real users
 
 ---
 
@@ -23,7 +39,7 @@ Graduated in **February 2025 (South Korea)** and currently open to full-time rol
 
 ### Problem
 - Local second-hand trade lacks trust and fast buyer-seller coordination
-- Weak hyperlocal filtering on generic marketplaces
+- Weak hyperlocal filtering in general marketplaces
 - Transaction status is often unclear
 
 ### Solution
@@ -36,7 +52,7 @@ Graduated in **February 2025 (South Korea)** and currently open to full-time rol
 - **Auth:** signup, login, me, logout
 - **Listings:** search, filter, create/update, likes, status flow, mine, nearby
 - **Chat:** open chat, send messages, read status
-- **UX:** responsive marketplace, loading states, chat badge
+- **UX:** responsive marketplace, loading states, navbar chat badge
 
 ### Tech Stack
 **Next.js (App Router), React 19, TypeScript, Zustand, Tailwind, Prisma, PostgreSQL (Neon), Vercel**
@@ -59,7 +75,7 @@ Graduated in **February 2025 (South Korea)** and currently open to full-time rol
 
 ---
 
-## Selected Public Repositories
+## 📌 Selected Public Repositories
 - React2Shell Exploit — https://github.com/AkhmadKholmurodov/React2Shell_Exploit
 - Personal Exploits — https://github.com/AkhmadKholmurodov/Personal-Exploits
 - Twitter Clone — https://github.com/AkhmadKholmurodov/twitter-clone
@@ -68,5 +84,14 @@ Graduated in **February 2025 (South Korea)** and currently open to full-time rol
 
 ---
 
-## Contact
-📩 seehyuk2000@gmail.com
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhmadKholmurodov&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhmadKholmurodov&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+## 📬 Contact
+📩 **seehyuk2000@gmail.com**
