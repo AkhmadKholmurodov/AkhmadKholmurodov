@@ -6,6 +6,7 @@
     <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge" alt="Security Focused"/>
     <img src="https://img.shields.io/badge/Red%20Hat-Certified-EE0000?style=for-the-badge&logo=redhat" alt="Red Hat"/>
     <img src="https://img.shields.io/badge/Status-Actively%20Hiring-brightgreen?style=for-the-badge" alt="Hiring"/>
+    <img src="https://img.shields.io/badge/Main%20Project-Eyaqin%20App-00C853?style=for-the-badge" alt="Main Project"/>
   </p>
 
   🇺🇿 **Uzbekistan** | 🇰🇷 **South Korea** (Graduated Feb 2025)
@@ -30,7 +31,7 @@
 
 ## 🎯 About Me
 
-I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **penetration testing**, and **exploit development**. I combine modern web development skills with deep security expertise to build secure applications and identify vulnerabilities.
+I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **penetration testing**, and **exploit development**. I combine modern web development skills with deep security expertise t[...]
 
 - 🔐 **Specialized in:** Web Security, Penetration Testing, Exploit Development, OSINT, Red Team Operations
 - 🎓 **Graduating:** February 2025
@@ -138,6 +139,27 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
 
 ---
 
+## 🌟 Featured Project (Main)
+
+<div align="center">
+  <a href="https://eyaqin-app.vercel.app/">
+    <img src="https://img.shields.io/badge/Flagship-Eyaqin%20App-00C853?style=for-the-badge" alt="Eyaqin App Flagship"/>
+  </a>
+  <img src="https://img.shields.io/badge/Status-Production%20Live-brightgreen?style=for-the-badge" alt="Production Live"/>
+  <img src="https://img.shields.io/badge/Code-Private-informational?style=for-the-badge" alt="Private Code"/>
+</div>
+
+<br/>
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|-----------|-------|
+| **Eyaqin App** | My **primary and most important** production project. Built with strong focus on performance, scalability, user experience, and secure full-stack architecture. | Next.js, TypeScript, Node.js, Tailwind CSS *(update stack if needed)* | [🌐 Live Demo](https://eyaqin-app.vercel.app/) |
+
+> 🔒 Source code is private.  
+> This is currently my **main featured project**.
+
+---
+
 ## 🔓 Security Projects
 
 | Project | Description | Status | Links |
@@ -152,6 +174,7 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|-----------|-------|
+| **Eyaqin App** ⭐ | Flagship full-stack product (primary project) | Next.js, TypeScript, Node.js, Tailwind CSS | [Live](https://eyaqin-app.vercel.app/) |
 | **Twitter Clone** | Full-featured Twitter-like social media platform | Node.js, React, MongoDB, GraphQL | [Code](https://github.com/AkhmadKholmurodov/twitter-clone) |
 | **My Blog Web** | Personal blogging platform with modern UI | Next.js, React, Tailwind CSS | [Live](https://akhmads-blog-web.vercel.app/) • [Code](https://github.com/AkhmadKholmurodov/MyBlogWeb) |
 | **Sportdosh** | Sports community and event management platform | React, Node.js, MongoDB | [Live](https://sportdosh.vercel.app/) • [Code](https://github.com/AkhmadKholmurodov/sportdosh) |
@@ -189,7 +212,7 @@ I'm a **Full Stack Developer** with a strong passion for **cybersecurity**, **pe
 
 ## 📝 Disclaimer
 
-This profile showcases my **security research and educational projects**. All penetration testing and security work is conducted on **authorized systems only**. I follow responsible disclosure practices and ethical hacking principles.
+This profile showcases my **security research and educational projects**. All penetration testing and security work is conducted on **authorized systems only**. I follow responsible disclosure practic[...]
 
 - ✅ HackTheBox machines - Authorized lab environment
 - ✅ TryHackMe rooms - Legal training platform
