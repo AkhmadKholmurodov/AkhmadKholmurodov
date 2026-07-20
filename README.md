@@ -94,9 +94,13 @@ Local second-hand trade suffers from weak trust, poor hyperlocal filtering, and 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhmadKholmurodov&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhmadKholmurodov&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkhmadKholmurodov&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+
+  <!-- Eng ko'p ishlatilgan tillar (Private loyihalar qo'shildi va sig'imi 10 ta qilindi) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkhmadKholmurodov&layout=compact&theme=dark&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" height="165"/>
 </div>
+
 
 ---
 
